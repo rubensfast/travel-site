@@ -4,3 +4,5 @@ require('./gulp/tasks/styles.js');
 require('./gulp/tasks/watch.js'); 
 // SPRITES
 require('./gulp/tasks/sprites');
+// SCRIPTS
+require('./gulp/tasks/scripts');
