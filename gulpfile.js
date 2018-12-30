@@ -1,7 +1,7 @@
 // CSS
-require('./gulp/tasks/styles.js');
+require('./gulp/tasks/styles');
 // WATCH
-require('./gulp/tasks/watch.js'); 
+require('./gulp/tasks/watch'); 
 // SPRITES
 require('./gulp/tasks/sprites');
 // SCRIPTS
