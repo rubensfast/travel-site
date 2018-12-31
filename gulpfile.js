@@ -8,3 +8,5 @@ require('./gulp/tasks/sprites');
 require('./gulp/tasks/scripts');
 // MODERNIZR
 require('./gulp/tasks/modernizr');
+// OPTIMIZE IMAGES
+require('./gulp/tasks/build');

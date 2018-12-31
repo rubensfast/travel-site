@@ -677,7 +677,7 @@ a {
         
         @mixin-atLarge {
             &.lazyloaded{
-                background: url('/assets/images/testimonials-bg.jpg') top center no-repeat;
+                background: url('../../assets/images/testimonials-bg.jpg') top center no-repeat;
                 background-size: cover;
             }
         }
@@ -1034,11 +1034,11 @@ a {
 /* Não edite templates diretamente, ao invés disso, use o gulp para edição  gulp/templates/sprite */
 
 .icon{
-            background-image: url('/assets/images/sprites/sprite-cbdfe7ac.svg');
+            background-image: url('../../assets/images/sprites/sprite-cbdfe7ac.svg');
         }
 
 .no-svg .icon{
-            background-image: url('/assets/images/sprites/sprite-d675eadb.png');
+            background-image: url('../../assets/images/sprites/sprite-cbdfe7ac.png');
         }
 
 .icon--clear-view-escapes{
