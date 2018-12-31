@@ -2,7 +2,7 @@ var gulp = require('gulp'),
 webpack = require('webpack');
 
 
-gulp.task('scripts', (callback) =>{
+gulp.task('scripts', function(callback) {
 
     webpack(require('../../webpack.config.js'), (err, stats) => {
         if(err){
