@@ -6,3 +6,5 @@ require('./gulp/tasks/watch');
 require('./gulp/tasks/sprites');
 // SCRIPTS
 require('./gulp/tasks/scripts');
+// MODERNIZR
+require('./gulp/tasks/modernizr');
